@@ -6,7 +6,7 @@
         "especie": "Perro",
         "raza": "Cruce Podenco",
         "protectora": "Bai Sen Pulgas",
-        "imagen": "https://baisenpulgas.protecms.com/static/80/animals/2738/photos/596fb76e43f8c1500493678.jpeg",
+        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/2738/photos/596fb76e43f8c1500493678.jpeg", "https://baisenpulgas.protecms.com/static/80/animals/2738/photos/596fb772cc13d1500493682.jpeg"],
         "descripcion": "Ada es una perrita que se encuentra en una casa de acogida. Convive perfectamente con perros y gatos. Eso sí, no le gusta mucho que le toquen las personas, sólo ella sabe lo que ha pasado. \nBuscamos una familia que la quiera para siempre. ¿Te animas a conocerla? \n • Se entrega esterilizada, vacunada, con chip y desparasitada."
     },
     {
