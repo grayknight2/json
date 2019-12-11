@@ -15,7 +15,7 @@
         "sexo": "Macho",
         "especie": "Perro",
         "raza": "Mestizo",
-        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/2659/photos/5967fd708faff1499987312.jpeg"],
+        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/2659/photos/5967fd708faff1499987312.jpeg", "https://baisenpulgas.protecms.com/static/80/animals/2659/photos/5c392d1e757861547250974.jpg"],
         "protectora": "Bai Sen Pulgas",
         "descripcion": "Arsenio es un perro muy bonachón, pasea genial con correa, es tranquilo y le encantan los mimos. Tiene carácter con otros perros y tampoco se lleva bien con gatos, por eso sería ideal para una familia que no tenga más animales."
     },
@@ -25,7 +25,7 @@
         "sexo": "Hembra",
         "especie": "Gato",
         "raza": "Común europeo",
-        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/7850/photos/5c4d0288a2c261548550792.jpg"],
+        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/7850/photos/5c4d0288a2c261548550792.jpg", "https://baisenpulgas.protecms.com/static/80/animals/7850/photos/thumbnail-xs-5c4d02887f5291548550792.jpg"],
         "protectora": "Bai Sen Pulgas",
         "descripcion": "Paca es una gata que es inmunodeficiente. Se encuentra en una casa de acogida y buscamos una adopción."
     }
