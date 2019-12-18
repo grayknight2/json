@@ -35,14 +35,16 @@
         "urgente": "si"
         },
         {
-        "nombre": "Paca2",
-        "edad": "5 años y 9 meses",
-        "sexo": "Hembra",
-        "especie": "Gato",
-        "raza": "Común europeo",
-        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/7850/photos/5c4d0288a2c261548550792.jpg", "https://baisenpulgas.protecms.com/static/80/animals/7850/photos/thumbnail-xs-5c4d02887f5291548550792.jpg"],
+        "nombre": "Arko",
+        "edad": "13 años y 11 meses",
+        "sexo": "Macho",
+        "especie": "Perro",
+        "raza": "Pitbull",
+        "imagen": ["https://baisenpulgas.protecms.com/static/80/animals/7660/photos/5c393dd1456601547255249.jpg",
+                   "https://baisenpulgas.protecms.com/static/80/animals/7660/photos/5cc335120b07f1556296978.jpg",
+                   "https://baisenpulgas.protecms.com/static/80/animals/7660/photos/5c393dd121cba1547255249.jpg"],
         "protectora": "Bai Sen Pulgas",
-        "descripcion": "Paca es una gata que es inmunodeficiente. Se encuentra en una casa de acogida y buscamos una adopción.",
+        "descripcion": "Hola,\n\n Me llamo Arko, soy un pitbull de 13 años y, bueno, de mi anterior vida prefiero no acordarme. Dicen de mi que soy tremendamente bueno, que no doy tirones al pasear. Que no te eche para atrás el hecho de que sea PPP o tener 13 años, aún me queda mucho carrete. ¿Me dejas que te lo demuestre? \n\n• Buscamos una casa de acogida ahora que se acerca el frío y la lluvia es imprescindible un sitio calentito para él (la protectora correría con todos los gastos) o lo que es mejor una adopción, para ambos casos es imprescindible licencia de PPP. Se entrega esterilizado, vacunado, con chip y desparasitado.",
         "urgente": "si"
         },
         {
