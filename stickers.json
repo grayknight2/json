@@ -49,7 +49,7 @@
     {
       "identifier": "2",
       "name": "Cuppy 2",
-      "publisher": "Jane Doe 2",
+      "publisher": "Jane Doe",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -90,10 +90,10 @@
         }
       ]
     },
-       {
+    {
       "identifier": "3",
       "name": "Cuppy 3",
-      "publisher": "Jane Doe 3",
+      "publisher": "Jane Doe",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -133,6 +133,7 @@
           "emojis": ["??","??"]
         }
       ]
-    },
+    }
+    
   ]
 }
