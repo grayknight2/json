@@ -48,8 +48,8 @@
     },
     {
       "identifier": "2",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
+      "name": "Cuppy 2",
+      "publisher": "Jane Doe 2",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
       "publisher_email":"",
       "publisher_website": "",
@@ -90,5 +90,49 @@
         }
       ]
     }
+       {
+      "identifier": "3",
+      "name": "Cuppy 3",
+      "publisher": "Jane Doe 3",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "emojis": ["??","??"]
+        }
+      ]
+    },
   ]
 }
