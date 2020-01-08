@@ -6,34 +6,18 @@
       "identifier": "Mario1",
       "name": "Mario",
       "publisher": "JC",
-      "tray_image_file": "https://webstockreview.net/images/brick-clipart-super-mario-19.png",
+      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://webstockreview.net/images/brick-clipart-super-mario-19.png",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
           "emojis": ["?","??"]
         },
         {
-          "image_file": "https://i.pinimg.com/originals/6c/7c/c5/6c7cc5fd520669a83678b2c3fa33f0cc.png",
-          "emojis": ["??","??"]
-        },
-        {
-          "image_file": "https://www.netclipart.com/pp/m/290-2904985_luigi-mario-png.png",
-          "emojis": ["??","??"]
-        },
-        {
-          "image_file": "https://purepng.com/public/uploads/large/purepng.com-super-mario-luigimariofictional-charactervideo-gamefranchisenintendodesigner-1701528624279pdkrj.png",
-          "emojis": ["??","??"]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
-          "emojis": ["?","??"]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
           "emojis": ["??","??"]
         },
         {
@@ -41,7 +25,23 @@
           "emojis": ["??","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
           "emojis": ["??","??"]
         }
       ]
