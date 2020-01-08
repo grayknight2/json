@@ -4,20 +4,20 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
+      "name": "Mario",
+      "publisher": "JC",
+      "tray_image_file": "https://webstockreview.net/images/brick-clipart-super-mario-19.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/1.webp",
+          "image_file": "https://webstockreview.net/images/brick-clipart-super-mario-19.png",
           "emojis": ["?","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
+          "image_file": "https://i.pinimg.com/originals/6c/7c/c5/6c7cc5fd520669a83678b2c3fa33f0cc.png",
           "emojis": ["??","??"]
         },
         {
