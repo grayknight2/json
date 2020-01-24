@@ -3,7 +3,7 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "Mario2",
+      "identifier": "Mario3",
       "name": "Mario",
       "publisher": "JC",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
@@ -13,14 +13,6 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "https://raw.githubusercontent.com/vincekruger/flutter_whatsapp_stickers/master/example/sticker_packs/1/02_Cuppy_lol.webp",
-          "emojis": ["?","??"]
-        },
-        {
-          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/mario1.webp",
-          "emojis": ["??","??"]
-        },
-        {
           "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_1.webp",
           "emojis": ["??","??"]
         },
@@ -29,19 +21,39 @@
           "emojis": ["??","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/mario1.webp",
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_3.webp",
           "emojis": ["?","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_4.webp",
           "emojis": ["??","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_5.webp",
           "emojis": ["??","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_6.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_7.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_8.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_9.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_10.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_11.webp",
           "emojis": ["??","??"]
         }
       ]
