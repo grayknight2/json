@@ -12,6 +12,14 @@
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
+         {
+          "image_file": "https://raw.githubusercontent.com/vincekruger/flutter_whatsapp_stickers/master/example/sticker_packs/1/02_Cuppy_lol.webp",
+          "emojis": ["?","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/mario1.webp",
+          "emojis": ["??","??"]
+        },
         {
           "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_1.webp",
           "emojis": ["??","??"]
@@ -25,7 +33,15 @@
           "emojis": ["??","??"]
         },
         {
-          "image_file": "https://raw.githubusercontent.com/grayknight2/json/master/Berlin_4.webp",
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
+          "emojis": ["??","??"]
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
           "emojis": ["??","??"]
         }
       ]
