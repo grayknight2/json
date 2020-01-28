@@ -3,8 +3,8 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "Mario3",
-      "name": "Mario",
+      "identifier": "Berlin",
+      "name": "Berlin",
       "publisher": "JC",
       "tray_image_file": "https://raw.githubusercontent.com/hariiprasad/my-personal/master/3.webp",
       "image_data_version":"1",
